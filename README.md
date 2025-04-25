@@ -1,13 +1,16 @@
 <div align="center">
 
+<div align="center">
+  
 ## Olá! Eu sou a Ana Clara 👋🏻
 
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aninha-dev&show_icons=true&theme=dracula" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninha-dev&layout=compact&theme=dracula&hide=c,javascript,html,css" alt="Top Languages" />
-<br>
-<img src="https://i.gifer.com/7V0.gif" width="100px" alt="GIF Hello Kitty" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aninha-dev&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninha-dev&layout=compact&theme=dracula&hide=c,javascript,html,css" alt="Top Languages" style="margin-right: 20px;" />
+    <img src="https://i.gifer.com/7V0.gif" alt="GIF" style="width: 100px;" />
+  </div>
+</div>
 
 ---
 
